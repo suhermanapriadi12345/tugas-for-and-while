@@ -1,0 +1,14 @@
+print ("perulangan for and while")
+
+print("untuk for")
+
+nama_temen= ("andi, jaka, joki, japri")
+for i in nama_temen:
+    print(i)
+
+print("untuk while")
+
+i = 1
+while i <=4:
+    print("suherman apriadi")
+    i += 3
